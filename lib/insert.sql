@@ -5,4 +5,4 @@ insert into bears (name, age, gender, color, temperament, alive) values ('Sergea
 insert into bears (name, age, gender, color, temperament, alive) values ('Melissa', 13, "F", "dark brown", "goofy", 1);
 insert into bears (name, age, gender, color, temperament, alive) values ('Grinch', 2, "M", "Black", "Grinchy", 1);
 insert into bears (name, age, gender, color, temperament, alive) values ('Wendy', 6, "F", "Blue", "naive", 1);
-insert into bears (name, age, gender, color, temperament, alive) values (null, 10, null, null, null, null);
+insert into bears (name, age, gender, color, temperament, alive) values (null, 20, "M", "black", "aggressive", 0);
