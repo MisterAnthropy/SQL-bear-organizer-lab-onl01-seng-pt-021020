@@ -1,1 +1,1 @@
-insert into bears ()
+insert into bears (name, age, )
