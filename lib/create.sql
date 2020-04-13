@@ -4,7 +4,7 @@ create table bears (
   age
   gender 
   color
-  temperment
+  temperament
   
   
 
