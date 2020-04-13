@@ -5,5 +5,5 @@ create table bears (
   gender text,
   color text,
   temperament text,
-  alive text
+  alive boolean 
 );
