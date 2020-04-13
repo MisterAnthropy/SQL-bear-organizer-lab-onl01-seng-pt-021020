@@ -1,12 +1,9 @@
 create table bears (
   id integer primary key
   name text,
-  age
-  gender 
-  color
-  temperament
-  
-  
-
-
+  age integer,
+  gender text,
+  color text,
+  temperament text,
+  alive text
 );
